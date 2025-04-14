@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "121ca62c3449349681ea48b536c25db1"
+	name: "DaveDude_#121ca62c"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

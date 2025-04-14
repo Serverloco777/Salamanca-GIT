@@ -1,0 +1,17 @@
+{
+	id: "a54f89ad-4e66-368d-b8e8-561d83540447"
+	type: "player"
+	player_name: "As1mpleNpc"
+	ranks: {
+		a54f89ad-4e66-368d-b8e8-561d83540447: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "As1mpleNpc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#597EFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

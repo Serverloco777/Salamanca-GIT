@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "7568f65bf77a3a83982353e5644c7362"
+	name: "JuanitoCubito#7568f65b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

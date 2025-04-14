@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a54f89ad4e66368db8e8561d83540447"
+	name: "As1mpleNpc#a54f89ad"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

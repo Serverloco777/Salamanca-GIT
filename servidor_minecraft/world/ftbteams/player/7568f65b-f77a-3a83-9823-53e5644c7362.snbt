@@ -1,0 +1,17 @@
+{
+	id: "7568f65b-f77a-3a83-9823-53e5644c7362"
+	type: "player"
+	player_name: "JuanitoCubito"
+	ranks: {
+		7568f65b-f77a-3a83-9823-53e5644c7362: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JuanitoCubito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFF059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
