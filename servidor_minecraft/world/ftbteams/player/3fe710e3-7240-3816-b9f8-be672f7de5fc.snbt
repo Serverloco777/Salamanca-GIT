@@ -1,0 +1,17 @@
+{
+	id: "3fe710e3-7240-3816-b9f8-be672f7de5fc"
+	type: "player"
+	player_name: "David_SanHT"
+	ranks: {
+		3fe710e3-7240-3816-b9f8-be672f7de5fc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "David_SanHT"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "3fe710e372403816b9f8be672f7de5fc"
+	name: "David_SanHT#3fe710e3"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1744861017551L
+		2574E7CF699D5B45: 1744861017551L
+		0470194500CBE26C: 1744861017551L
+		0000000000000001: 1744861017551L
+	}
+	completed: {
+		2574E7CF699D5B45: 1744861017551L
+		0470194500CBE26C: 1744861017551L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
