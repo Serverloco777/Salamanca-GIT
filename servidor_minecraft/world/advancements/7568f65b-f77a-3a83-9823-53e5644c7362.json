@@ -8537,6 +8537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 18:13:07 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/food/cooked_beef_roast_from_smelting": {
     "criteria": {
       "has_beef_roast": "2025-04-18 18:01:32 +0000"
@@ -8558,6 +8564,18 @@
   "chococraft:recipes/misc/straw": {
     "criteria": {
       "has_wheat": "2025-04-18 18:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 18:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-18 18:13:07 +0000"
     },
     "done": true
   },

@@ -4195,3 +4195,14 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:59:11.589] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 7 milliseconds
 [18Apr2025 18:04:11.569] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 8 milliseconds
 [18Apr2025 18:09:11.578] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 9 milliseconds
+[18Apr2025 18:14:11.584] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 7 milliseconds
+[18Apr2025 18:14:26.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> ZZZZZZZZZZZZZZ
+[18Apr2025 18:14:27.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> ZZ
+[18Apr2025 18:14:27.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:28.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:28.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:28.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
+[18Apr2025 18:14:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> ZZZ
+[18Apr2025 18:19:11.558] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 8 milliseconds
