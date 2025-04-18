@@ -4126,3 +4126,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:10:41.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: David_SanHT lost connection: Disconnected
 [18Apr2025 17:10:41.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT left the game
 [18Apr2025 17:10:41.431] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3fe710e3-7240-3816-b9f8-be672f7de5fc
+[18Apr2025 17:14:11.518] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3382 chunks for dimension 'overworld' took 6 milliseconds
+[18Apr2025 17:14:20.459] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: David_SanHT[/100.71.94.21:50520] logged in with entity id 335 at (-1522.0783055762029, 64.0625, -339.37546796290854)
+[18Apr2025 17:14:20.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to David_SanHT
+[18Apr2025 17:14:20.466] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to David_SanHT
+[18Apr2025 17:14:20.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to David_SanHT
+[18Apr2025 17:14:20.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to David_SanHT
+[18Apr2025 17:14:20.469] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to David_SanHT
+[18Apr2025 17:14:20.473] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to David_SanHT
+[18Apr2025 17:14:20.474] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to David_SanHT
+[18Apr2025 17:14:20.489] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 17:14:20.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT joined the game
+[18Apr2025 17:14:20.587] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3fe710e3-7240-3816-b9f8-be672f7de5fc
+[18Apr2025 17:14:20.602] [Server thread/INFO] [Jade/]: Syncing config to David_SanHT (3fe710e3-7240-3816-b9f8-be672f7de5fc)
+[18Apr2025 17:14:21.405] [Server thread/INFO] [ping-wheel/]: Channel update: David_SanHT -> default
+[18Apr2025 17:19:11.598] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3382 chunks for dimension 'overworld' took 7 milliseconds
+[18Apr2025 17:20:35.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [Skeleton's Nightmare.]
+[18Apr2025 17:20:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [Baker and Candlestick maker.]
+[18Apr2025 17:20:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [You've got guts kid.]
+[18Apr2025 17:20:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [Craft a Skinning Knife]
