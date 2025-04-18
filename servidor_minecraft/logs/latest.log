@@ -4155,3 +4155,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:30:38.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=70, z=-379} BlockPos{x=-1548, y=69, z=-378}
 [18Apr2025 17:30:41.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1545, y=70, z=-382} BlockPos{x=-1545, y=69, z=-383}
 [18Apr2025 17:30:43.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1548, y=70, z=-383} BlockPos{x=-1550, y=69, z=-383}
+[18Apr2025 17:33:34.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JuanitoCubito[/100.108.153.55:53907] logged in with entity id 4319 at (-2667.748027774376, 69.5625, 243.67324801741944)
+[18Apr2025 17:33:34.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JuanitoCubito
+[18Apr2025 17:33:34.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JuanitoCubito
+[18Apr2025 17:33:34.142] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JuanitoCubito
+[18Apr2025 17:33:34.143] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JuanitoCubito
+[18Apr2025 17:33:34.145] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JuanitoCubito
+[18Apr2025 17:33:34.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JuanitoCubito
+[18Apr2025 17:33:34.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JuanitoCubito
+[18Apr2025 17:33:34.158] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 17:33:34.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanitoCubito joined the game
+[18Apr2025 17:33:34.231] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7568f65b-f77a-3a83-9823-53e5644c7362
+[18Apr2025 17:33:34.246] [Server thread/INFO] [Jade/]: Syncing config to JuanitoCubito (7568f65b-f77a-3a83-9823-53e5644c7362)
+[18Apr2025 17:33:39.743] [Server thread/INFO] [ping-wheel/]: Channel update: JuanitoCubito -> default
+[18Apr2025 17:34:11.588] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3388 chunks for dimension 'overworld' took 7 milliseconds
+[18Apr2025 17:36:35.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JuanitoCubito lost connection: Disconnected
+[18Apr2025 17:36:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanitoCubito left the game
+[18Apr2025 17:36:35.480] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7568f65b-f77a-3a83-9823-53e5644c7362
+[18Apr2025 17:39:11.545] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3431 chunks for dimension 'overworld' took 8 milliseconds

@@ -2191,7 +2191,8 @@
       "minecraft:spider": "2025-04-17 03:39:28 +0000",
       "minecraft:creeper": "2025-04-17 03:41:28 +0000",
       "minecraft:cave_spider": "2025-04-17 05:34:33 +0000",
-      "minecraft:zombie": "2025-04-17 04:07:39 +0000"
+      "minecraft:zombie": "2025-04-17 04:07:39 +0000",
+      "minecraft:drowned": "2025-04-18 17:36:15 +0000"
     },
     "done": false
   },
@@ -8191,6 +8192,12 @@
       "voluntary_exile": "2025-04-18 03:33:10 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-04-18 17:35:09 +0000"
+    },
+    "done": false
   },
   "butchercraft:bonesaw": {
     "criteria": {
