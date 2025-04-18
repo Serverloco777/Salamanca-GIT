@@ -8501,11 +8501,65 @@
     },
     "done": true
   },
+  "butchercraft:recipes/food/cooked_pork_block": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-18 18:06:29 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_giant_tree_taiga": "2025-04-18 17:54:10 +0000"
     },
     "done": false
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_campfire_cooking": {
+    "criteria": {
+      "has_beef_roast": "2025-04-18 18:01:32 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_roast_from_smoking": {
+    "criteria": {
+      "has_pork_roast": "2025-04-18 18:01:18 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_smoking": {
+    "criteria": {
+      "has_beef_roast": "2025-04-18 18:01:32 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_roast_from_campfire_cooking": {
+    "criteria": {
+      "has_pork_roast": "2025-04-18 18:01:18 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_smelting": {
+    "criteria": {
+      "has_beef_roast": "2025-04-18 18:01:32 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_block_to_scraps": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-18 18:06:29 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_roast_from_smelting": {
+    "criteria": {
+      "has_pork_roast": "2025-04-18 18:01:18 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/straw": {
+    "criteria": {
+      "has_wheat": "2025-04-18 18:00:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
