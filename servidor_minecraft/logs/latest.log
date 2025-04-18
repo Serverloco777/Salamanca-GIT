@@ -4173,3 +4173,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:36:35.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanitoCubito left the game
 [18Apr2025 17:36:35.480] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7568f65b-f77a-3a83-9823-53e5644c7362
 [18Apr2025 17:39:11.545] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3431 chunks for dimension 'overworld' took 8 milliseconds
+[18Apr2025 17:44:11.577] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3431 chunks for dimension 'overworld' took 7 milliseconds
+[18Apr2025 17:49:11.549] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3431 chunks for dimension 'overworld' took 9 milliseconds
+[18Apr2025 17:50:49.308] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JuanitoCubito[/100.108.153.55:54384] logged in with entity id 7917 at (-1903.132107938834, 66.0, -20.33384569452859)
+[18Apr2025 17:50:49.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JuanitoCubito
+[18Apr2025 17:50:49.314] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JuanitoCubito
+[18Apr2025 17:50:49.315] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JuanitoCubito
+[18Apr2025 17:50:49.315] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JuanitoCubito
+[18Apr2025 17:50:49.317] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JuanitoCubito
+[18Apr2025 17:50:49.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JuanitoCubito
+[18Apr2025 17:50:49.319] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JuanitoCubito
+[18Apr2025 17:50:49.330] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[18Apr2025 17:50:49.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanitoCubito joined the game
+[18Apr2025 17:50:49.407] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7568f65b-f77a-3a83-9823-53e5644c7362
+[18Apr2025 17:50:49.416] [Server thread/INFO] [Jade/]: Syncing config to JuanitoCubito (7568f65b-f77a-3a83-9823-53e5644c7362)
+[18Apr2025 17:50:53.233] [Server thread/INFO] [ping-wheel/]: Channel update: JuanitoCubito -> default
+[18Apr2025 17:51:13.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JuanitoCubito> pingueeee
