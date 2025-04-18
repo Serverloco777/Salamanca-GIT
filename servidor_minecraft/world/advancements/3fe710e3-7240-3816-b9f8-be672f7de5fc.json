@@ -8030,45 +8030,57 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-18 03:24:03 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-04-18 03:14:34 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/wall_mushroom_brown": {
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
-      "has_brown_mushroom": "2025-04-18 03:24:47 +0000"
+      "has_potion": "2025-04-18 03:14:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-04-18 03:27:50 +0000"
+      "has_potion": "2025-04-18 03:14:34 +0000"
     },
     "done": true
   },
-  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+  "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
-      "has_silver_upgrade_smithing_template": "2025-04-18 03:27:44 +0000"
+      "has_beetroot": "2025-04-18 03:17:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/onion": {
+  "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
-      "has_onion_crate": "2025-04-18 03:27:47 +0000"
+      "has_beetroot": "2025-04-18 03:17:12 +0000"
     },
     "done": true
   },
-  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
-      "has_red_mushroom": "2025-04-18 03:24:03 +0000"
+      "has_beetroot": "2025-04-18 03:17:12 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2025-04-18 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-18 03:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-18 03:17:26 +0000"
     },
     "done": true
   },
@@ -8078,15 +8090,21 @@
     },
     "done": false
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 03:24:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
     "criteria": {
       "has_red_mushroom": "2025-04-18 03:24:03 +0000"
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "has_log": "2025-04-18 03:17:26 +0000"
+      "has_red_mushroom": "2025-04-18 03:24:03 +0000"
     },
     "done": true
   },
@@ -8108,57 +8126,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/whos_the_pillager_now": {
+  "betternether:recipes/misc/wall_mushroom_brown": {
     "criteria": {
-      "kill_pillager": "2025-04-18 03:28:25 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-04-18 03:14:34 +0000"
-    },
-    "done": true
-  },
-  "adorabuild_structures:ocean_odyssey": {
-    "criteria": {
-      "dark_oak_ship_1": "2025-04-18 03:27:32 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-18 03:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-18 03:33:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_logs": "2025-04-18 03:17:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-18 03:17:12 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/sweet_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-04-18 03:14:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-18 03:27:50 +0000"
+      "has_brown_mushroom": "2025-04-18 03:24:47 +0000"
     },
     "done": true
   },
@@ -8168,27 +8138,57 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "adorabuild_structures:ocean_odyssey": {
     "criteria": {
-      "shot_crossbow": "2025-04-18 03:28:20 +0000"
+      "dark_oak_ship_1": "2025-04-18 03:27:32 +0000"
+    },
+    "done": false
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-04-18 03:27:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
+  "farmersdelight:recipes/food/onion": {
     "criteria": {
-      "has_beetroot": "2025-04-18 03:17:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-18 03:17:26 +0000"
+      "has_onion_crate": "2025-04-18 03:27:47 +0000"
     },
     "done": true
   },
   "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
       "has_crossbow": "2025-04-18 03:27:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-04-18 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-18 03:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-18 03:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-04-18 03:28:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-18 03:33:10 +0000"
     },
     "done": true
   },
