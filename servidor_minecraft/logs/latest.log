@@ -4189,3 +4189,7 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:50:49.416] [Server thread/INFO] [Jade/]: Syncing config to JuanitoCubito (7568f65b-f77a-3a83-9823-53e5644c7362)
 [18Apr2025 17:50:53.233] [Server thread/INFO] [ping-wheel/]: Channel update: JuanitoCubito -> default
 [18Apr2025 17:51:13.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <JuanitoCubito> pingueeee
+[18Apr2025 17:53:41.561] [Worker-Main-96/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[18Apr2025 17:53:41.728] [Worker-Main-96/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 167ms
+[18Apr2025 17:54:11.599] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3482 chunks for dimension 'overworld' took 18 milliseconds
+[18Apr2025 17:59:11.589] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 7 milliseconds
