@@ -8211,9 +8211,21 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_alt": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
   "butchercraft:butcherknife": {
     "criteria": {
       "butcherknife": "2025-04-18 17:20:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-18 18:26:13 +0000"
     },
     "done": true
   },
@@ -8223,9 +8235,39 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-18 18:29:09 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_leggings": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
   "butchercraft:skinningknife": {
     "criteria": {
       "skinningknife": "2025-04-18 17:20:46 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-04-18 18:26:07 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_chestplate": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/chocobo_whistle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
     },
     "done": true
   },
@@ -8235,15 +8277,51 @@
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_boots": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
   "butchercraft:root": {
     "criteria": {
       "tick": "2025-04-18 17:20:39 +0000"
     },
     "done": true
   },
+  "chococraft:recipes/misc/chocobo_saddle_bags": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
   "butchercraft:gutknife": {
     "criteria": {
       "gutknife": "2025-04-18 17:20:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-18 18:29:09 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/misc/choco_disguise_helmet": {
+    "criteria": {
+      "has_chocobo_feather": "2025-04-18 18:25:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-18 18:26:07 +0000"
     },
     "done": true
   },

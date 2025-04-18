@@ -4206,3 +4206,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 18:14:28.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> Z
 [18Apr2025 18:14:30.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <David_SanHT> ZZZ
 [18Apr2025 18:19:11.558] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 8 milliseconds
+[18Apr2025 18:24:11.560] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3517 chunks for dimension 'overworld' took 8 milliseconds
+[18Apr2025 18:26:13.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [The Lighthouse]
+[18Apr2025 18:26:18.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanitoCubito has made the advancement [The Lighthouse]
+[18Apr2025 18:29:11.553] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3558 chunks for dimension 'overworld' took 7 milliseconds
+[18Apr2025 18:30:06.225] [Worker-Main-98/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
