@@ -71,10 +71,12 @@
       "minecraft:taiga": "2025-04-14 05:06:46 +0000",
       "minecraft:eroded_badlands": "2025-04-18 02:42:09 +0000",
       "minecraft:frozen_river": "2025-04-14 05:03:25 +0000",
+      "minecraft:bamboo_jungle": "2025-04-18 18:31:14 +0000",
       "minecraft:badlands": "2025-04-18 02:22:31 +0000",
       "minecraft:savanna_plateau": "2025-04-18 02:55:45 +0000",
       "minecraft:beach": "2025-04-17 04:05:10 +0000",
       "minecraft:stony_peaks": "2025-04-18 02:57:40 +0000",
+      "minecraft:sparse_jungle": "2025-04-18 18:40:50 +0000",
       "minecraft:river": "2025-04-14 05:11:27 +0000",
       "minecraft:lukewarm_ocean": "2025-04-18 02:20:10 +0000",
       "minecraft:snowy_plains": "2025-04-14 04:42:22 +0000",
@@ -85,6 +87,7 @@
       "minecraft:forest": "2025-04-14 05:42:28 +0000",
       "minecraft:frozen_ocean": "2025-04-17 04:52:42 +0000",
       "minecraft:ocean": "2025-04-17 03:36:22 +0000",
+      "minecraft:jungle": "2025-04-18 18:33:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-14 05:11:21 +0000",
       "minecraft:savanna": "2025-04-18 02:16:19 +0000",
       "minecraft:plains": "2025-04-18 02:55:37 +0000"
@@ -2820,7 +2823,9 @@
       "maple_woods": "2025-04-14 05:11:51 +0000",
       "orchard": "2025-04-17 03:36:15 +0000",
       "overgrown_greens": "2025-04-17 05:09:11 +0000",
+      "mediterranean_forest": "2025-04-18 18:48:23 +0000",
       "coniferous_forest": "2025-04-17 03:35:06 +0000",
+      "spider_nest": "2025-04-18 18:50:28 +0000",
       "dryland": "2025-04-18 02:20:44 +0000",
       "lush_desert": "2025-04-18 02:21:15 +0000",
       "redwood_forest": "2025-04-17 03:38:01 +0000",
@@ -4201,6 +4206,7 @@
       "birch_house_medium_2": "2025-04-17 03:40:44 +0000",
       "oak_house_small_3": "2025-04-18 02:00:46 +0000",
       "acacia_well_1": "2025-04-18 02:17:08 +0000",
+      "dark_oak_ship_1": "2025-04-18 18:31:44 +0000",
       "oak_hut_1": "2025-04-18 01:55:03 +0000",
       "red_sand_house_medium_1": "2025-04-18 02:41:38 +0000"
     },
@@ -8502,6 +8508,66 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_warped_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/bamboo_furnace_raft": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_spruce_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/warped_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 18:41:58 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/food/cooked_pork_block": {
     "criteria": {
       "has_pork_cooked": "2025-04-18 18:06:29 +0000"
@@ -8520,9 +8586,105 @@
     },
     "done": true
   },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-04-18 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-04-18 18:32:22 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/boat_jar": {
+    "criteria": {
+      "minecraft:boats": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/transformation_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/monstrometer": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-18 18:39:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/mangrove_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/jungle_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8532,17 +8694,48 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_paver_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/dispenser_minecart": {
     "criteria": {
       "has_dispenser": "2025-04-18 18:28:27 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_jungle_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:pyramids": {
     "criteria": {
-      "in_pyramid_giant_tree_taiga": "2025-04-18 17:54:10 +0000"
+      "in_pyramid_giant_tree_taiga": "2025-04-18 17:54:10 +0000",
+      "in_pyramid_mushroom": "2025-04-18 18:38:37 +0000"
     },
     "done": false
+  },
+  "boatload:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_bricks_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
   },
   "butchercraft:recipes/food/cooked_beef_roast_from_campfire_cooking": {
     "criteria": {
@@ -8559,6 +8752,30 @@
   "butchercraft:recipes/food/cooked_pork_roast_from_smoking": {
     "criteria": {
       "has_pork_roast": "2025-04-18 18:01:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/acacia_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8592,9 +8809,69 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/calcite_plate_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/wide_bamboo_raft": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-04-18 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_birch_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-18 18:41:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8604,15 +8881,93 @@
     },
     "done": true
   },
+  "boatload:recipes/transportation/spruce_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-04-18 18:20:02 +0000"
     },
     "done": true
   },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_lumiere_shard": "2025-04-18 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/canopy_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-04-18 18:27:40 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/time_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
     },
     "done": true
   },
@@ -8628,15 +8983,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/food/cooked_pork_roast_from_campfire_cooking": {
     "criteria": {
       "has_pork_roast": "2025-04-18 18:01:18 +0000"
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_dark_oak_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_acacia_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:ocean_odyssey": {
+    "criteria": {
+      "dark_oak_ship_1": "2025-04-18 18:31:44 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-04-18 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8646,9 +9061,99 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_brick_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_land_warm": "2025-04-18 18:30:51 +0000"
+    },
+    "done": false
+  },
+  "boatload:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
       "has_salmon": "2025-04-18 18:27:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_calcite_pillar_trim": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
     },
     "done": true
   },
@@ -8658,9 +9163,57 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_block": {
+    "criteria": {
+      "has_lumiere_shard": "2025-04-18 18:47:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plates_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-18 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/chiseled_lumiere_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8673,6 +9226,36 @@
   "crabbersdelight:recipes/building_blocks/cod_barrel": {
     "criteria": {
       "has_cod": "2025-04-18 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_stairs_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
     },
     "done": true
   },
@@ -8694,15 +9277,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_pavers_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-04-18 18:27:40 +0000"
     },
     "done": true
   },
+  "boatload:recipes/transportation/large_crimson_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-18 18:36:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-18 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/jellyshroom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8718,9 +9349,33 @@
     },
     "done": true
   },
+  "galosphere:recipes/building_blocks/lumiere_brick_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/food/cooked_pork_roast_from_smelting": {
     "criteria": {
       "has_pork_roast": "2025-04-18 18:01:18 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/smooth_lumiere_slab_from_lumiere_block_stonecutting": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_tile_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/sorting_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8730,9 +9385,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/dark_oak_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-04-18 18:27:41 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 18:41:58 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/mining_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/cherry_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/birch_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
@@ -8742,15 +9451,63 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/dark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_calcite_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candy": {
     "criteria": {
       "has_paper": "2025-04-18 18:20:02 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_calcite_tiles_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/calcite_plate_wall_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-04-18 18:20:02 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/polished_calcite": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
     },
     "done": true
   },
@@ -8766,9 +9523,93 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_calcite_slab_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/crimson_furnace_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_slab": {
+    "criteria": {
+      "has_lumiere_block": "2025-04-18 18:47:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_cherry_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/transportation/twilight_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/misc/choco_disguise_helmet": {
     "criteria": {
       "has_chocobo_feather": "2025-04-18 18:24:58 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsproot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_calcite_corner_trim": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_calcite_brick_stairs_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_calcite": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 18:48:33 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
+    },
+    "done": true
+  },
+  "boatload:recipes/transportation/large_mangrove_boat": {
+    "criteria": {
+      "has_boat": "2025-04-18 18:31:42 +0000"
     },
     "done": true
   },
