@@ -4145,3 +4145,13 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [18Apr2025 17:20:39.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [Baker and Candlestick maker.]
 [18Apr2025 17:20:42.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [You've got guts kid.]
 [18Apr2025 17:20:46.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: David_SanHT has made the advancement [Craft a Skinning Knife]
+[18Apr2025 17:24:11.588] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3382 chunks for dimension 'overworld' took 8 milliseconds
+[18Apr2025 17:27:52.071] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity GatekeeperEntity['Isidro'/570, l='ServerLevel[world]', x=-1682.46, y=68.00, z=-486.44] died: Isidro was slain by Vindicator
+[18Apr2025 17:28:56.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1568, y=72, z=-325} BlockPos{x=-1567, y=70, z=-324}
+[18Apr2025 17:28:56.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1568, y=72, z=-325} BlockPos{x=-1567, y=70, z=-324}
+[18Apr2025 17:29:11.554] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 3388 chunks for dimension 'overworld' took 9 milliseconds
+[18Apr2025 17:30:38.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=69, z=-378} BlockPos{x=-1548, y=69, z=-378}
+[18Apr2025 17:30:38.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=69, z=-378} BlockPos{x=-1548, y=69, z=-378}
+[18Apr2025 17:30:38.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=70, z=-379} BlockPos{x=-1548, y=69, z=-378}
+[18Apr2025 17:30:41.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1545, y=70, z=-382} BlockPos{x=-1545, y=69, z=-383}
+[18Apr2025 17:30:43.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1548, y=70, z=-383} BlockPos{x=-1550, y=69, z=-383}

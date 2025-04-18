@@ -8192,5 +8192,35 @@
     },
     "done": true
   },
+  "butchercraft:bonesaw": {
+    "criteria": {
+      "bonesaw": "2025-04-18 17:20:35 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:butcherknife": {
+    "criteria": {
+      "butcherknife": "2025-04-18 17:20:39 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:skinningknife": {
+    "criteria": {
+      "skinningknife": "2025-04-18 17:20:46 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:root": {
+    "criteria": {
+      "tick": "2025-04-18 17:20:39 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:gutknife": {
+    "criteria": {
+      "gutknife": "2025-04-18 17:20:42 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
