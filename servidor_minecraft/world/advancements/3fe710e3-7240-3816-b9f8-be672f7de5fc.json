@@ -90,6 +90,7 @@
       "minecraft:forest": "2025-04-17 03:45:26 +0000",
       "minecraft:ocean": "2025-04-17 03:49:41 +0000",
       "minecraft:jungle": "2025-04-18 03:23:13 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-19 00:51:07 +0000",
       "minecraft:deep_dark": "2025-04-18 20:11:47 +0000",
       "minecraft:savanna": "2025-04-18 02:16:12 +0000",
       "minecraft:plains": "2025-04-18 03:22:53 +0000"
@@ -2194,6 +2195,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-18 03:28:25 +0000",
       "minecraft:skeleton": "2025-04-17 04:27:26 +0000",
+      "minecraft:vindicator": "2025-04-19 00:40:38 +0000",
       "minecraft:spider": "2025-04-17 03:39:28 +0000",
       "minecraft:creeper": "2025-04-17 03:41:28 +0000",
       "minecraft:evoker": "2025-04-18 18:32:03 +0000",
@@ -2889,6 +2891,7 @@
       "old_growth_woodland": "2025-04-17 04:33:21 +0000",
       "maple_woods": "2025-04-17 03:44:56 +0000",
       "orchard": "2025-04-17 03:49:40 +0000",
+      "field": "2025-04-19 00:51:26 +0000",
       "overgrown_greens": "2025-04-17 04:07:22 +0000",
       "mediterranean_forest": "2025-04-18 03:11:42 +0000",
       "coniferous_forest": "2025-04-19 00:18:32 +0000",
@@ -2908,7 +2911,8 @@
       "prairie": "2025-04-18 19:05:47 +0000",
       "glowing_grotto": "2025-04-17 04:16:42 +0000",
       "gravel_beach": "2025-04-18 23:17:48 +0000",
-      "rainforest": "2025-04-17 04:16:51 +0000"
+      "rainforest": "2025-04-17 04:16:51 +0000",
+      "crag": "2025-04-19 00:53:15 +0000"
     },
     "done": false
   },
@@ -3304,6 +3308,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-17 04:08:11 +0000",
+      "cooked_mutton": "2025-04-19 01:23:54 +0000",
       "cooked_beef": "2025-04-18 19:13:44 +0000",
       "baked_potato": "2025-04-17 05:30:18 +0000",
       "apple": "2025-04-18 02:52:36 +0000",
@@ -10052,7 +10057,8 @@
   },
   "repurposed_structures:mineshafts": {
     "criteria": {
-      "in_mineshaft_icy": "2025-04-18 20:09:21 +0000"
+      "in_mineshaft_icy": "2025-04-18 20:09:21 +0000",
+      "in_mineshaft_taiga": "2025-04-19 00:44:12 +0000"
     },
     "done": false
   },
@@ -10611,6 +10617,54 @@
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-04-19 00:17:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-19 01:25:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-19 00:42:46 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-19 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_campfire_cooking": {
+    "criteria": {
+      "has_beef_roast": "2025-04-19 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_smoking": {
+    "criteria": {
+      "has_beef_roast": "2025-04-19 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-04-19 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-04-19 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_beef_roast_from_smelting": {
+    "criteria": {
+      "has_beef_roast": "2025-04-19 01:34:44 +0000"
     },
     "done": true
   },
