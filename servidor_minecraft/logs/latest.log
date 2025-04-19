@@ -4136,3 +4136,22 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 16:48:26.574] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 16:53:26.605] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 20 milliseconds
 [19Apr2025 16:58:26.571] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 17:03:26.623] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 17:08:26.583] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 18 milliseconds
+[19Apr2025 17:10:35.589] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaveDude_ lost connection: Disconnected
+[19Apr2025 17:10:35.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ left the game
+[19Apr2025 17:10:35.591] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 121ca62c-3449-3496-81ea-48b536c25db1
+[19Apr2025 17:10:45.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DaveDude_[/100.72.127.123:50055] logged in with entity id 10581 at (-1545.466796875, 71.79999995231628, -361.8703831105324)
+[19Apr2025 17:10:45.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to DaveDude_
+[19Apr2025 17:10:45.195] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to DaveDude_
+[19Apr2025 17:10:45.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to DaveDude_
+[19Apr2025 17:10:45.196] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to DaveDude_
+[19Apr2025 17:10:45.198] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to DaveDude_
+[19Apr2025 17:10:45.202] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to DaveDude_
+[19Apr2025 17:10:45.203] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to DaveDude_
+[19Apr2025 17:10:45.223] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19Apr2025 17:10:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ joined the game
+[19Apr2025 17:10:45.312] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 121ca62c-3449-3496-81ea-48b536c25db1
+[19Apr2025 17:10:45.340] [Server thread/INFO] [Jade/]: Syncing config to DaveDude_ (121ca62c-3449-3496-81ea-48b536c25db1)
+[19Apr2025 17:10:45.812] [Server thread/INFO] [ping-wheel/]: Channel update: DaveDude_ -> default
+[19Apr2025 17:11:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ was shot by Skeleton
