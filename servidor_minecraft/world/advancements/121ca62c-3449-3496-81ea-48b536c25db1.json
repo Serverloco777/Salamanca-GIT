@@ -5396,12 +5396,15 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "cabbage": "2025-04-19 23:42:08 +0000",
       "onion": "2025-04-19 23:31:05 +0000",
       "tomato": "2025-04-19 22:56:24 +0000",
       "kelp": "2025-04-19 21:35:49 +0000",
       "brown_mushroom": "2025-04-14 06:29:06 +0000",
       "potato": "2025-04-14 06:19:49 +0000",
       "wheat": "2025-04-14 06:20:01 +0000",
+      "melon": "2025-04-19 23:41:37 +0000",
+      "pumpkin": "2025-04-19 23:39:22 +0000",
       "carrot": "2025-04-14 06:19:17 +0000"
     },
     "done": false
@@ -9882,6 +9885,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:42:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/place_campfire": {
     "criteria": {
       "campfire": "2025-04-19 21:13:09 +0000"
@@ -9891,6 +9900,12 @@
   "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
       "has_golden_leggings": "2025-04-19 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:42:26 +0000"
     },
     "done": true
   },
@@ -9939,6 +9954,12 @@
   "butchercraft:recipes/food/cooked_chicken_scraps_from_smelting": {
     "criteria": {
       "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-04-19 23:42:26 +0000"
     },
     "done": true
   },
