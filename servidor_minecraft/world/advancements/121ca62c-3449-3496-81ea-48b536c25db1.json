@@ -9831,5 +9831,11 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-04-19 17:56:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
