@@ -10303,9 +10303,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_peony": "2025-04-18 23:44:58 +0000"
+      "diamond_chestplate": "2025-04-18 23:34:02 +0000"
     },
     "done": true
   },
@@ -10315,15 +10315,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-18 23:44:58 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:well_well": {
     "criteria": {
       "acacia_well_1": "2025-04-18 23:47:48 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "diamond_chestplate": "2025-04-18 23:34:02 +0000"
+      "tamed_animal": "2025-04-18 23:58:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-04-18 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2025-04-18 23:56:04 +0000"
     },
     "done": true
   },

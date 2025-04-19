@@ -2549,6 +2549,7 @@
       "sweet_berries": "2025-04-14 05:50:00 +0000",
       "cooked_beef": "2025-04-14 05:58:42 +0000",
       "baked_potato": "2025-04-14 06:25:14 +0000",
+      "apple": "2025-04-18 23:56:35 +0000",
       "cooked_cod": "2025-04-14 06:00:12 +0000",
       "bread": "2025-04-14 05:32:45 +0000",
       "rotten_flesh": "2025-04-14 04:53:12 +0000",
@@ -7976,27 +7977,441 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-18 21:11:15 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-04-18 21:11:20 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/decorations/taxidermy_goat": {
+    "criteria": {
+      "has_goat": "2025-04-18 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/cooked_goat": {
+    "criteria": {
+      "cooked_goat": "2025-04-18 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:goat": {
+    "criteria": {
+      "goat": "2025-04-18 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/cooked_goat": {
+    "criteria": {
+      "cooked_goat": "2025-04-18 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/cooked_goat": {
+    "criteria": {
+      "cooked_goat": "2025-04-18 21:19:04 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/goat_block_to_scraps": {
+    "criteria": {
+      "has_goat": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_scraps_from_campfire_cooking": {
+    "criteria": {
+      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/goat_block": {
+    "criteria": {
+      "has_goat": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_stewmeat_from_smelting": {
+    "criteria": {
+      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/goat_scrap_to_ground_goat": {
+    "criteria": {
+      "has_goat_scrap": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_stewmeat_from_smoking": {
+    "criteria": {
+      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_scraps_from_smoking": {
+    "criteria": {
+      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_scraps_from_smelting": {
+    "criteria": {
+      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_stewmeat_from_campfire_cooking": {
+    "criteria": {
+      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/combat/goat_hood": {
+    "criteria": {
+      "has_head": "2025-04-18 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_cubed_goat_from_smelting": {
+    "criteria": {
+      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_ribs_from_smelting": {
+    "criteria": {
+      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_roast_from_smoking": {
+    "criteria": {
+      "has_goat_roast": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_chop_from_smoking": {
+    "criteria": {
+      "has_goat_chop": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_roast_from_campfire_cooking": {
+    "criteria": {
+      "has_goat_roast": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_roast_from_smelting": {
+    "criteria": {
+      "has_goat_roast": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_cubed_goat_from_smoking": {
+    "criteria": {
+      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_chop_from_smelting": {
+    "criteria": {
+      "has_goat_chop": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_ribs_from_smoking": {
+    "criteria": {
+      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_ribs_from_campfire_cooking": {
+    "criteria": {
+      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_chop_from_campfire_cooking": {
+    "criteria": {
+      "has_goat_chop": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_cubed_goat_from_campfire_cooking": {
+    "criteria": {
+      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 21:28:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-04-18 21:28:45 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-04-18 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-04-18 21:29:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_antique_ink": "2025-04-18 21:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-18 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-04-18 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-18 21:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-18 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-18 21:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-18 21:31:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_bowl_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
     },
     "done": true
   },
@@ -8018,75 +8433,9 @@
     },
     "done": true
   },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-04-18 21:29:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
-    "criteria": {
-      "has_rabbit": "2025-04-18 22:09:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_pork_from_campfire_cooking": {
-    "criteria": {
-      "has_ground_pork": "2025-04-18 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/campfire/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-18 22:50:04 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/chimneys": {
-    "criteria": {
-      "has_item": "2025-04-18 22:52:51 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-18 21:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/goat_block_to_scraps": {
-    "criteria": {
-      "has_goat": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_pork_block": {
-    "criteria": {
-      "has_pork_cooked": "2025-04-18 23:01:31 +0000"
     },
     "done": true
   },
@@ -8096,27 +8445,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-18 21:37:04 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/tools/cincinnasite_pickaxe_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-04-18 22:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/green_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
     },
     "done": true
   },
@@ -8126,255 +8457,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_scraps_from_campfire_cooking": {
-    "criteria": {
-      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/combat/chicken_mask": {
-    "criteria": {
-      "has_head": "2025-04-18 22:11:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/decorations/taxidermy_black_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-04-18 21:59:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/decorations/taxidermy_goat": {
-    "criteria": {
-      "has_goat": "2025-04-18 21:19:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-18 21:37:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-04-18 22:17:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/chiseled_bricks": {
-    "criteria": {
-      "has_item": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-04-18 22:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_cubed_goat_from_smelting": {
-    "criteria": {
-      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_skillet": {
-    "criteria": {
-      "skillet": "2025-04-18 22:59:42 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "aether_redux:recipes/combat/veridium_dart": {
-    "criteria": {
-      "has_feather": "2025-04-18 22:10:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/nethers_stove": {
-    "criteria": {
-      "has_campfire": "2025-04-18 22:52:51 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_ribs_from_smelting": {
-    "criteria": {
-      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2025-04-18 22:09:16 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_roast_from_smoking": {
-    "criteria": {
-      "has_goat_roast": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/ash_brick": {
-    "criteria": {
-      "forge:ash": "2025-04-18 21:28:45 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
-    "criteria": {
-      "has_lava_bucket": "2025-04-18 21:30:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-04-18 22:37:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-04-18 21:31:37 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_chop_from_smoking": {
-    "criteria": {
-      "has_goat_chop": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "hearth_and_home:recipes/barred_glass": {
-    "criteria": {
-      "has_item": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smelting/cooked_goat": {
-    "criteria": {
-      "cooked_goat": "2025-04-18 21:19:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
     },
     "done": true
   },
@@ -8384,69 +8469,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/oven": {
-    "criteria": {
-      "has_oven": "2025-04-18 22:17:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-18 21:31:55 +0000"
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_goat_roast_from_campfire_cooking": {
-    "criteria": {
-      "has_goat_roast": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_roast_from_smelting": {
-    "criteria": {
-      "has_goat_roast": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-04-18 22:11:18 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:everything_plus": {
-    "criteria": {
-      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
-    },
-    "done": false
-  },
-  "butchercraft:recipes/food/cooked_cubed_goat_from_smoking": {
-    "criteria": {
-      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
     },
     "done": true
   },
@@ -8462,201 +8493,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-04-18 22:17:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
-    "criteria": {
-      "has_rabbit": "2025-04-18 22:09:16 +0000"
-    },
-    "done": true
-  },
-  "illagerinvasion:recipes/misc/platinum_sheet": {
-    "criteria": {
-      "has_platinum_chunk": "2025-04-18 21:11:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_pork_from_smelting": {
-    "criteria": {
-      "has_ground_pork": "2025-04-18 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "quark:get_forgotten_hat": {
-    "criteria": {
-      "get_forgotten_hat": "2025-04-18 21:40:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_chop_from_smelting": {
-    "criteria": {
-      "has_goat_chop": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-04-18 22:52:51 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/decorations/taxidermy_chicken": {
-    "criteria": {
-      "has_chicken": "2025-04-18 22:07:05 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/storage/acorn_storage_block": {
-    "criteria": {
-      "has_acorn": "2025-04-18 22:50:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/polished_rhyolite": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_goat_from_smoking": {
-    "criteria": {
-      "has_ground_goat": "2025-04-18 23:13:15 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_stairs": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/tools/cincinnasite_shovel_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bricks_pillar_trim": {
-    "criteria": {
-      "has_bricks_pillar_trim": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_ribs_from_smoking": {
-    "criteria": {
-      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/tools/blood_bottle": {
-    "criteria": {
-      "has_blood": "2025-04-18 22:08:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_chicken": "2025-04-18 22:11:18 +0000"
-    },
-    "done": true
-  },
-  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-18 21:59:05 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-04-18 21:11:15 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/goat_block": {
-    "criteria": {
-      "has_goat": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2025-04-18 22:03:50 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:whole_cow": {
-    "criteria": {
-      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
-    },
-    "done": false
-  },
-  "butchercraft:recipes/food/cooked_goat_ribs_from_campfire_cooking": {
-    "criteria": {
-      "has_goat_ribs": "2025-04-18 21:21:12 +0000"
     },
     "done": true
   },
@@ -8666,189 +8505,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/oak_shutter": {
-    "criteria": {
-      "has_slab": "2025-04-18 22:14:23 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/feather_block": {
-    "criteria": {
-      "has_feather": "2025-04-18 22:10:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/mixed_bricks": {
-    "criteria": {
-      "has_item": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2025-04-18 22:11:18 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_stewmeat_from_smelting": {
-    "criteria": {
-      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_pavers_stonecutting": {
-    "criteria": {
-      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2025-04-18 22:03:50 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/tools/blood_bucket": {
-    "criteria": {
-      "has_blood": "2025-04-18 22:08:30 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_block": {
-    "criteria": {
-      "has_goat_cooked": "2025-04-18 22:59:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/bricks/cracked_bricks": {
-    "criteria": {
-      "has_item": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smelting/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-18 22:50:04 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2025-04-18 21:29:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-04-18 22:37:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_skillet": {
-    "criteria": {
-      "skillet": "2025-04-18 23:00:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-04-18 22:37:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/goat_scrap_to_ground_goat": {
-    "criteria": {
-      "has_goat_scrap": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_pavers_stonecutting": {
-    "criteria": {
-      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
-    },
-    "done": true
-  },
-  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_pavers_stonecutting": {
-    "criteria": {
-      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_pork_block_to_scraps": {
-    "criteria": {
-      "has_pork_cooked": "2025-04-18 23:01:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-04-18 21:39:27 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_stewmeat_from_smoking": {
-    "criteria": {
-      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-04-18 22:17:33 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_goat_from_smelting": {
-    "criteria": {
-      "has_ground_goat": "2025-04-18 23:13:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_shovel_repairing": {
-    "criteria": {
-      "has_iron_shovel": "2025-04-18 22:26:22 +0000"
     },
     "done": true
   },
@@ -8858,63 +8517,15 @@
     },
     "done": true
   },
-  "butchercraft:goat": {
-    "criteria": {
-      "goat": "2025-04-18 21:19:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_goat_scraps_from_smoking": {
-    "criteria": {
-      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-04-18 21:41:04 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smoking/roasted_acorn": {
-    "criteria": {
-      "roasted_acorn": "2025-04-18 22:50:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-04-18 21:59:05 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_chop_from_campfire_cooking": {
-    "criteria": {
-      "has_goat_chop": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_goat_from_campfire_cooking": {
-    "criteria": {
-      "has_ground_goat": "2025-04-18 23:13:15 +0000"
     },
     "done": true
   },
@@ -8930,81 +8541,9 @@
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_goat_scraps_from_smelting": {
-    "criteria": {
-      "has_goat_scraps": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2025-04-18 22:53:08 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/smoking/cooked_goat": {
-    "criteria": {
-      "cooked_goat": "2025-04-18 21:19:04 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-18 21:28:00 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/tables/oak_table_slab": {
-    "criteria": {
-      "has_bamboo": "2025-04-18 22:14:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-04-18 21:31:37 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:everything": {
-    "criteria": {
-      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_pork_from_smoking": {
-    "criteria": {
-      "has_ground_pork": "2025-04-18 23:08:53 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-18 21:30:14 +0000"
     },
     "done": true
   },
@@ -9014,81 +8553,9 @@
     },
     "done": true
   },
-  "quark:get_diamond_heart": {
-    "criteria": {
-      "get_diamond_heart": "2025-04-18 21:41:37 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_goat_stewmeat_from_campfire_cooking": {
-    "criteria": {
-      "has_goat_stewmeat": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-04-18 21:31:37 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/silt/silt_from_sand": {
-    "criteria": {
-      "has_item": "2025-04-18 21:59:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_cubed_goat_from_campfire_cooking": {
-    "criteria": {
-      "has_cubed_goat": "2025-04-18 21:21:12 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:chicken": {
-    "criteria": {
-      "chicken": "2025-04-18 22:07:05 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/diamond_gloves": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
-    "criteria": {
-      "has_item": "2025-04-18 22:41:38 +0000"
     },
     "done": true
   },
@@ -9098,51 +8565,75 @@
     },
     "done": true
   },
-  "hearth_and_home:recipes/cobblestone_bricks": {
-    "criteria": {
-      "has_item": "2025-04-18 22:52:51 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/oak_bench": {
-    "criteria": {
-      "has_slab": "2025-04-18 22:14:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-04-18 21:31:55 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/oak_flower_box": {
+  "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
-      "has_slab": "2025-04-18 22:14:23 +0000"
+      "has_diamond": "2025-04-18 21:31:55 +0000"
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/nut_butter_bottle": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_nuts": "2025-04-18 22:50:04 +0000"
+      "has_slime_ball": "2025-04-18 21:37:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+      "has_slime_ball": "2025-04-18 21:37:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_stained_glass": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_glass": "2025-04-18 22:08:20 +0000"
+      "has_slime_ball": "2025-04-18 21:37:04 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/bricks_corner_trim": {
+  "aether:recipes/combat/chainmail_boots_repairing": {
     "criteria": {
-      "has_bricks_corner_trim": "2025-04-18 22:53:08 +0000"
+      "has_chainmail_boots": "2025-04-18 21:39:27 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-04-18 21:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-18 21:41:04 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-04-18 21:41:37 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-18 21:59:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-04-18 21:59:05 +0000"
     },
     "done": true
   },
@@ -9152,51 +8643,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "butchercraft:recipes/decorations/taxidermy_black_rabbit": {
     "criteria": {
-      "has_feather": "2025-04-18 22:10:51 +0000"
+      "has_rabbit": "2025-04-18 21:59:47 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/globe_sepia": {
+  "minecraft:recipes/building_blocks/clay": {
     "criteria": {
-      "has_antique_ink": "2025-04-18 21:29:12 +0000"
+      "has_clay_ball": "2025-04-18 22:03:50 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/oak_banister": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "has_item": "2025-04-18 22:14:23 +0000"
+      "has_clay_ball": "2025-04-18 22:03:50 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_dart": {
+  "butchercraft:recipes/decorations/taxidermy_chicken": {
     "criteria": {
-      "has_feather": "2025-04-18 22:10:51 +0000"
+      "has_chicken": "2025-04-18 22:07:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+  "butchercraft:chicken": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+      "chicken": "2025-04-18 22:07:05 +0000"
     },
     "done": true
   },
-  "delightful:recipes/food/baklava_no_citrus": {
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
-      "has_nuts": "2025-04-18 22:50:04 +0000"
+      "has_glass": "2025-04-18 22:08:20 +0000"
     },
     "done": true
   },
-  "delightful:recipes/campfire/cooked_goat": {
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
-      "cooked_goat": "2025-04-18 21:19:04 +0000"
+      "has_glass": "2025-04-18 22:08:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate": {
+  "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-04-18 22:08:20 +0000"
     },
     "done": true
   },
@@ -9212,39 +8793,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "butchercraft:recipes/tools/blood_bottle": {
     "criteria": {
-      "has_slime_ball": "2025-04-18 21:37:04 +0000"
+      "has_blood": "2025-04-18 22:08:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+  "butchercraft:recipes/tools/blood_bucket": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-18 21:30:11 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/combat/goat_hood": {
-    "criteria": {
-      "has_head": "2025-04-18 21:20:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-04-18 22:17:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/lapis_bricks": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-18 21:27:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-04-18 21:31:55 +0000"
+      "has_blood": "2025-04-18 22:08:30 +0000"
     },
     "done": true
   },
@@ -9254,9 +8811,459 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-18 22:09:16 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-04-18 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-04-18 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-18 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-04-18 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/combat/chicken_mask": {
+    "criteria": {
+      "has_head": "2025-04-18 22:11:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-18 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-18 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-04-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/oak_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-04-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2025-04-18 22:14:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-18 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-04-18 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-18 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-04-18 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-18 22:17:33 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-04-18 22:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 22:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-18 22:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-18 22:37:37 +0000"
+    },
+    "done": true
+  },
   "crabbersdelight:recipes/food/kelp_shake": {
     "criteria": {
       "has_kelp": "2025-04-18 22:37:37 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_pavers": "2025-04-18 22:41:05 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 22:41:38 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/baklava_no_citrus": {
+    "criteria": {
+      "has_nuts": "2025-04-18 22:50:04 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/chimneys": {
+    "criteria": {
+      "has_item": "2025-04-18 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-04-18 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-04-18 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 22:52:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/chiseled_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_pillar_trim": {
+    "criteria": {
+      "has_bricks_pillar_trim": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/mixed_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bricks/cracked_bricks": {
+    "criteria": {
+      "has_item": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bricks_corner_trim": {
+    "criteria": {
+      "has_bricks_corner_trim": "2025-04-18 22:53:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-04-18 22:54:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-04-18 22:55:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_skillet": {
+    "criteria": {
+      "skillet": "2025-04-18 22:59:42 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_goat_block": {
+    "criteria": {
+      "has_goat_cooked": "2025-04-18 22:59:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-04-18 23:00:34 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_block": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-18 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_block_to_scraps": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-18 23:01:31 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_pork_from_campfire_cooking": {
+    "criteria": {
+      "has_ground_pork": "2025-04-18 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_pork_from_smelting": {
+    "criteria": {
+      "has_ground_pork": "2025-04-18 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_pork_from_smoking": {
+    "criteria": {
+      "has_ground_pork": "2025-04-18 23:08:53 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_goat_from_smoking": {
+    "criteria": {
+      "has_ground_goat": "2025-04-18 23:13:15 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_goat_from_smelting": {
+    "criteria": {
+      "has_ground_goat": "2025-04-18 23:13:15 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_goat_from_campfire_cooking": {
+    "criteria": {
+      "has_ground_goat": "2025-04-18 23:13:15 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:everything_plus": {
+    "criteria": {
+      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
+    },
+    "done": false
+  },
+  "butchercraft:whole_cow": {
+    "criteria": {
+      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
+    },
+    "done": false
+  },
+  "butchercraft:everything": {
+    "criteria": {
+      "whole_cow_stew": "2025-04-18 23:16:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-04-18 23:57:34 +0000"
     },
     "done": true
   },
