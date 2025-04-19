@@ -4189,3 +4189,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 19:33:26.566] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 19:38:26.561] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 13 milliseconds
 [19Apr2025 19:43:26.571] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 19:48:26.567] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 19:53:26.568] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 13 milliseconds
