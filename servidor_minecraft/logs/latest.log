@@ -4225,3 +4225,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 22:18:26.572] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 22:18:27.175] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/58428, l='ServerLevel[world]', x=-1461.50, y=49.00, z=-305.50]
 [19Apr2025 22:23:26.560] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
+[19Apr2025 22:28:01.475] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/60266, l='ServerLevel[world]', x=-1454.50, y=53.00, z=-308.50]
+[19Apr2025 22:28:26.568] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 22:33:26.564] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
