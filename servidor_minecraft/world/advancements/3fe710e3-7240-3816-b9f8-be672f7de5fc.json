@@ -2197,6 +2197,7 @@
       "minecraft:spider": "2025-04-17 03:39:28 +0000",
       "minecraft:creeper": "2025-04-17 03:41:28 +0000",
       "minecraft:evoker": "2025-04-18 18:32:03 +0000",
+      "minecraft:phantom": "2025-04-19 00:01:32 +0000",
       "minecraft:cave_spider": "2025-04-17 05:34:33 +0000",
       "minecraft:vex": "2025-04-18 18:32:03 +0000",
       "minecraft:zombie": "2025-04-17 04:07:39 +0000",
@@ -3190,6 +3191,7 @@
     "criteria": {
       "acacia_house_medium_2": "2025-04-18 02:43:11 +0000",
       "acacia_house_small_2": "2025-04-18 03:00:16 +0000",
+      "acacia_house_small_1": "2025-04-19 00:04:33 +0000",
       "birch_house_medium_2": "2025-04-17 03:51:42 +0000",
       "oak_house_small_3": "2025-04-18 02:11:46 +0000",
       "oak_tree_1": "2025-04-18 02:04:28 +0000",
@@ -3307,6 +3309,7 @@
       "golden_apple": "2025-04-17 05:35:26 +0000",
       "rotten_flesh": "2025-04-17 05:17:22 +0000",
       "melon_slice": "2025-04-17 03:57:24 +0000",
+      "golden_carrot": "2025-04-19 00:06:23 +0000",
       "carrot": "2025-04-18 02:27:07 +0000"
     },
     "done": false
@@ -10327,9 +10330,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "tamed_animal": "2025-04-18 23:58:30 +0000"
+      "has_filled_map": "2025-04-18 23:56:04 +0000"
     },
     "done": true
   },
@@ -10339,9 +10342,57 @@
     },
     "done": true
   },
-  "supplementaries:recipes/soap/map": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_filled_map": "2025-04-18 23:56:04 +0000"
+      "tamed_animal": "2025-04-18 23:58:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-18 23:59:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-18 23:59:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-04-18 23:59:02 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-04-19 00:01:32 +0000"
+    },
+    "done": false
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-04-19 00:01:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-04-19 00:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-19 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-04-19 00:08:32 +0000"
     },
     "done": true
   },
