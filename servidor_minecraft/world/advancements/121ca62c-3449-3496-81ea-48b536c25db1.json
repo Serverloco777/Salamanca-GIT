@@ -9273,9 +9273,39 @@
     },
     "done": true
   },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-19 00:09:39 +0000"
+    },
+    "done": true
+  },
+  "deep_aether:recipes/misc/squash_seeds_enchanting": {
+    "criteria": {
+      "has_pumpkin_seeds": "2025-04-19 00:11:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-19 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-04-19 00:10:22 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-19 00:09:39 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-19 00:10:23 +0000"
     },
     "done": true
   },

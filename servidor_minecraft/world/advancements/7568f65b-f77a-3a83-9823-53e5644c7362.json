@@ -4230,6 +4230,7 @@
       "oak_house_small_1": "2025-04-18 23:30:00 +0000",
       "dark_oak_ship_1": "2025-04-18 18:31:44 +0000",
       "oak_hut_1": "2025-04-18 01:55:03 +0000",
+      "spruce_house_small_1": "2025-04-19 00:18:42 +0000",
       "red_sand_house_medium_1": "2025-04-18 02:41:38 +0000"
     },
     "done": false
@@ -11191,6 +11192,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-04-19 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 00:21:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-18 23:59:06 +0000"
@@ -11209,9 +11228,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 00:21:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_sword": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-19 00:22:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/carrot_from_crate": {
     "criteria": {
       "has_carrot_crate": "2025-04-18 23:59:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
     },
     "done": true
   },
@@ -11227,9 +11270,69 @@
     },
     "done": true
   },
+  "another_furniture:recipes/spruce_flower_box": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-04-19 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-04-19 00:18:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-04-19 00:10:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-19 00:07:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
     },
     "done": true
   },
@@ -11245,9 +11348,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-04-19 00:22:21 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 00:21:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
     "criteria": {
       "has_milk_bottle": "2025-04-18 23:57:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-04-19 00:14:55 +0000"
     },
     "done": true
   },
