@@ -4244,3 +4244,8 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 23:33:26.571] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
 [19Apr2025 23:38:26.566] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 23:43:26.576] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 23:48:26.580] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 18 milliseconds
+[19Apr2025 23:53:26.575] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
+[19Apr2025 23:53:35.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from DaveDude_: Location (-1538.0, 68.98451805114746, -373.1637927889824) too far away from hit block BlockPos{x=-1539, y=70, z=-374}.
+[19Apr2025 23:54:44.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from DaveDude_: Location (-1538.0, 69.06101435422897, -373.88523752242327) too far away from hit block BlockPos{x=-1539, y=70, z=-374}.
+[19Apr2025 23:55:08.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from DaveDude_: Location (-1538.0, 69.4696916937828, -369.75575314462185) too far away from hit block BlockPos{x=-1539, y=70, z=-370}.

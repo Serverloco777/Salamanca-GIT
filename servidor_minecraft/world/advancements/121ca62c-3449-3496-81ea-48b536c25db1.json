@@ -9855,6 +9855,12 @@
     },
     "done": true
   },
+  "butchercraft:recipes/food/cooked_ground_chicken_from_smoking": {
+    "criteria": {
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+    },
+    "done": true
+  },
   "butchercraft:recipes/food/cooked_chicken_scraps_from_campfire_cooking": {
     "criteria": {
       "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
@@ -9873,6 +9879,18 @@
     },
     "done": true
   },
+  "butchercraft:recipes/food/cooked_ground_chicken_from_smelting": {
+    "criteria": {
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 23:45:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-04-19 22:58:26 +0000"
@@ -9888,6 +9906,12 @@
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2025-04-19 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-19 23:45:14 +0000"
     },
     "done": true
   },
@@ -9915,9 +9939,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-19 23:47:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-04-19 23:47:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
     "criteria": {
       "has_vine": "2025-04-19 18:06:48 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
     },
     "done": true
   },
@@ -9957,9 +9999,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-04-19 23:49:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-04-19 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-04-19 23:49:01 +0000"
     },
     "done": true
   },
