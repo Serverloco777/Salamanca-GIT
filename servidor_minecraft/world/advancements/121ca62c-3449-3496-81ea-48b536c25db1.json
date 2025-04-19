@@ -5396,6 +5396,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "kelp": "2025-04-19 21:35:49 +0000",
       "brown_mushroom": "2025-04-14 06:29:06 +0000",
       "potato": "2025-04-14 06:19:49 +0000",
       "wheat": "2025-04-14 06:20:01 +0000",
