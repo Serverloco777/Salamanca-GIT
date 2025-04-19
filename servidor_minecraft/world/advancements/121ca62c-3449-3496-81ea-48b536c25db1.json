@@ -5396,6 +5396,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "tomato": "2025-04-19 22:56:24 +0000",
       "kelp": "2025-04-19 21:35:49 +0000",
       "brown_mushroom": "2025-04-14 06:29:06 +0000",
       "potato": "2025-04-14 06:19:49 +0000",
@@ -9868,6 +9869,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-04-19 22:58:26 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/bricks/mossy_bricks_from_vine": {
     "criteria": {
       "has_item": "2025-04-19 18:06:48 +0000"
@@ -9886,9 +9893,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
     "criteria": {
       "has_vine": "2025-04-19 18:06:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
     },
     "done": true
   },
@@ -9919,6 +9938,12 @@
   "butchercraft:recipes/food/cooked_chicken_scraps_from_smelting": {
     "criteria": {
       "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-19 22:58:26 +0000"
     },
     "done": true
   },
