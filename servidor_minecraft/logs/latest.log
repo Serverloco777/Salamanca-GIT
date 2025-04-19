@@ -4207,3 +4207,6 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 20:53:26.579] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 20:58:26.572] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
 [19Apr2025 21:03:26.550] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 13 milliseconds
+[19Apr2025 21:08:26.570] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
+[19Apr2025 21:13:09.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ has made the advancement [Bonfire Lit]
+[19Apr2025 21:13:26.601] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5957 chunks for dimension 'overworld' took 14 milliseconds
