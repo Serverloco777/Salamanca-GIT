@@ -4155,3 +4155,5 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [19Apr2025 17:10:45.340] [Server thread/INFO] [Jade/]: Syncing config to DaveDude_ (121ca62c-3449-3496-81ea-48b536c25db1)
 [19Apr2025 17:10:45.812] [Server thread/INFO] [ping-wheel/]: Channel update: DaveDude_ -> default
 [19Apr2025 17:11:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ was shot by Skeleton
+[19Apr2025 17:13:26.617] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 17 milliseconds
+[19Apr2025 17:18:26.582] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5955 chunks for dimension 'overworld' took 14 milliseconds
