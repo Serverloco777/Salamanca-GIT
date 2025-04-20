@@ -31,3 +31,34 @@
 [20Apr2025 01:09:13.477] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 14 milliseconds
 [20Apr2025 01:14:13.491] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 15 milliseconds
 [20Apr2025 01:17:41.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2619ms or 52 ticks behind
+[20Apr2025 01:18:33.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DaveDude_ lost connection: Disconnected
+[20Apr2025 01:18:33.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DaveDude_ left the game
+[20Apr2025 01:18:33.997] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 121ca62c-3449-3496-81ea-48b536c25db1
+[20Apr2025 01:18:55.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[20Apr2025 01:18:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20Apr2025 01:18:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20Apr2025 01:18:55.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20Apr2025 01:18:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20Apr2025 01:18:55.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[20Apr2025 01:18:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20Apr2025 01:18:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20Apr2025 01:18:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20Apr2025 01:18:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20Apr2025 01:18:55.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[20Apr2025 01:18:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[20Apr2025 01:18:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20Apr2025 01:18:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[20Apr2025 01:18:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20Apr2025 01:18:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20Apr2025 01:18:55.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20Apr2025 01:18:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20Apr2025 01:18:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[20Apr2025 01:18:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[20Apr2025 01:18:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20Apr2025 01:18:55.423] [Server thread/INFO] [Chunk Activity Tracker/]: Server stopping, clearing chunk activity tracking map.
+[20Apr2025 01:18:55.429] [Server thread/INFO] [Framework/]: Unloading server configs...
+[20Apr2025 01:18:55.430] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[20Apr2025 01:18:55.431] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[20Apr2025 01:18:55.431] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[20Apr2025 01:18:55.431] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[20Apr2025 01:18:55.432] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
