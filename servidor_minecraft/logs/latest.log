@@ -1,1 +1,6 @@
 [20Apr2025 00:03:26.573] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
+[20Apr2025 00:08:26.567] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
+[20Apr2025 00:13:26.581] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 5961 chunks for dimension 'overworld' took 13 milliseconds
+[20Apr2025 00:17:39.535] [Worker-Main-409/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[20Apr2025 00:17:39.676] [Worker-Main-409/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 141ms
+[20Apr2025 00:17:41.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9577ms or 191 ticks behind
