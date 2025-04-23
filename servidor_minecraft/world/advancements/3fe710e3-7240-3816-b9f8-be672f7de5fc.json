@@ -10620,19 +10620,31 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-04-19 01:25:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-04-19 00:42:46 +0000"
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-04-19 01:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-19 01:25:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-04-19 01:29:39 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-04-19 01:29:39 +0000"
     },
@@ -10650,21 +10662,21 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_from_pebble": {
-    "criteria": {
-      "has_item": "2025-04-19 01:29:39 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/stone_hoe_repairing": {
-    "criteria": {
-      "has_stone_hoe": "2025-04-19 01:00:10 +0000"
-    },
-    "done": true
-  },
   "butchercraft:recipes/food/cooked_beef_roast_from_smelting": {
     "criteria": {
       "has_beef_roast": "2025-04-19 01:34:44 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_block": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-23 02:05:20 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_pork_block_to_scraps": {
+    "criteria": {
+      "has_pork_cooked": "2025-04-23 02:05:20 +0000"
     },
     "done": true
   },

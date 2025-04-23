@@ -9837,15 +9837,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+  "supplementaries:recipes/soap/map": {
     "criteria": {
-      "has_vine": "2025-04-19 18:06:48 +0000"
+      "has_filled_map": "2025-04-19 17:56:40 +0000"
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_chicken_scraps_from_smoking": {
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
-      "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
+      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-19 18:06:48 +0000"
     },
     "done": true
   },
@@ -9855,9 +9873,27 @@
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_ground_chicken_from_smoking": {
+  "twigs:recipes/bricks/mossy_bricks_from_vine": {
     "criteria": {
-      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+      "has_item": "2025-04-19 18:06:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-19 18:06:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-04-19 21:13:09 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_chicken_scraps_from_smoking": {
+    "criteria": {
+      "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
     },
     "done": true
   },
@@ -9873,21 +9909,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+  "butchercraft:recipes/food/chicken_block_to_scraps": {
     "criteria": {
-      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
+      "has_chicken": "2025-04-19 22:45:33 +0000"
     },
     "done": true
   },
-  "butchercraft:recipes/food/cooked_ground_chicken_from_smelting": {
+  "butchercraft:recipes/food/chicken_scrap_to_ground_chicken": {
     "criteria": {
-      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+      "has_chicken_scrap": "2025-04-19 22:45:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
+  "butchercraft:recipes/food/cooked_chicken_scraps_from_smelting": {
     "criteria": {
-      "has_any_ingredient": "2025-04-19 23:45:14 +0000"
+      "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
     },
     "done": true
   },
@@ -9897,9 +9933,21 @@
     },
     "done": true
   },
-  "twigs:recipes/bricks/mossy_bricks_from_vine": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_item": "2025-04-19 18:06:48 +0000"
+      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-04-19 22:58:26 +0000"
     },
     "done": true
   },
@@ -9909,33 +9957,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-04-19 23:45:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-04-19 21:13:09 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-04-19 23:42:26 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
+  "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
-      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
+      "has_tomato": "2025-04-19 23:42:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-19 23:45:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-04-19 23:45:14 +0000"
     },
     "done": true
   },
@@ -9951,69 +9993,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/end_stone_brick_weathered_from_vine": {
-    "criteria": {
-      "has_vine": "2025-04-19 18:06:48 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_ground_chicken_from_campfire_cooking": {
-    "criteria": {
-      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-19 22:58:26 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/chicken_block_to_scraps": {
-    "criteria": {
-      "has_chicken": "2025-04-19 22:45:33 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/chicken_scrap_to_ground_chicken": {
-    "criteria": {
-      "has_chicken_scrap": "2025-04-19 22:45:33 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/map": {
-    "criteria": {
-      "has_filled_map": "2025-04-19 17:56:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_leggings": "2025-04-19 18:05:17 +0000"
-    },
-    "done": true
-  },
-  "chipped:recipes/carpenters_table": {
-    "criteria": {
-      "has_carpenters_table": "2025-04-20 00:53:38 +0000"
-    },
-    "done": true
-  },
-  "butchercraft:recipes/food/cooked_chicken_scraps_from_smelting": {
-    "criteria": {
-      "has_chicken_scraps": "2025-04-19 22:45:33 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2025-04-19 23:49:01 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2025-04-19 23:42:26 +0000"
     },
     "done": true
   },
@@ -10023,9 +10005,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "butchercraft:recipes/food/cooked_ground_chicken_from_smoking": {
     "criteria": {
-      "has_onion": "2025-04-19 22:58:26 +0000"
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_chicken_from_smelting": {
+    "criteria": {
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "butchercraft:recipes/food/cooked_ground_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_ground_chicken": "2025-04-19 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-04-20 00:53:38 +0000"
     },
     "done": true
   },
