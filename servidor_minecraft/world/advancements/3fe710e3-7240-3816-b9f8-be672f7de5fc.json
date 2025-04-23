@@ -5700,7 +5700,8 @@
   "butchercraft:everything_plus": {
     "criteria": {
       "whole_cow_roast": "2025-04-17 05:49:35 +0000",
-      "whole_sheep_scraps": "2025-04-17 05:04:04 +0000"
+      "whole_sheep_scraps": "2025-04-17 05:04:04 +0000",
+      "whole_pig_ribs": "2025-04-23 02:08:56 +0000"
     },
     "done": false
   },
@@ -5719,7 +5720,8 @@
   "butchercraft:everything": {
     "criteria": {
       "whole_cow_roast": "2025-04-17 05:49:35 +0000",
-      "whole_sheep_scraps": "2025-04-17 05:04:04 +0000"
+      "whole_sheep_scraps": "2025-04-17 05:04:04 +0000",
+      "whole_pig_ribs": "2025-04-23 02:08:56 +0000"
     },
     "done": false
   },
@@ -10679,6 +10681,12 @@
       "has_pork_cooked": "2025-04-23 02:05:20 +0000"
     },
     "done": true
+  },
+  "butchercraft:whole_pig": {
+    "criteria": {
+      "whole_pig_ribs": "2025-04-23 02:08:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
